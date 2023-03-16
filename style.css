@@ -102,10 +102,10 @@ button:hover{
     
 }
 
-li{
+ul{
     list-style-type: none;
 }
-ul{
+li{
     text-decoration: none;
     list-style-type: none;
     padding: 1px 0px 1px 0px;

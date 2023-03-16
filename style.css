@@ -4,7 +4,7 @@ body{
     font-family: 'Karla', sans-serif;
     background-color: hsl(204, 43%, 93%);
     display: grid;
-    place-items: center;
+    place-content: center;
     min-height: 100vh;
 } 
 /* the main body of the card */
@@ -118,6 +118,10 @@ li{
 /* ------------------------------------- */
 
  /* the footer  */
+.attribution{
+    text-align: center;
+}
+
 a{
     text-decoration: none;
 }

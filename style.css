@@ -17,7 +17,7 @@ main{
     grid-template-areas:
         "head head head head"
         "fsec fsec ssec ssec";
-    margin: 60px auto 60px auto;
+    
 }
     /* the first div of the first cell in the grid */
 .first_text{

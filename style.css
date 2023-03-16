@@ -5,7 +5,7 @@ body{
     background-color: hsl(204, 43%, 93%);
 } 
 /* the main body of the card */
-.first_one{
+main{
     height: 29rem;
     width: 41rem;
     display: grid;
@@ -129,7 +129,7 @@ a{
 /* ------------------------------------- */
 @media  screen and (max-width: 750px) {
 
-    .first_one{
+    main{
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         grid-template-areas:
